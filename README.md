@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @AJ-Abisola, a Physicist and Machine learning Enthusiast.
-- 👀 I’m open to roles in Robotics and AI
+- 👀 I’m open to roles in Robot and AI development. 
 
 <!---
 AJ-Abisola/AJ-Abisola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
